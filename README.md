@@ -11,3 +11,5 @@ Azure Dashboard: [DashboardLink](https://portal.azure.com/#home)
 
 
 ``` 5/4/2023: ``` Microsoft makes it really convenient to set up enviornment 0_0. So cool :P
+
+``` 5/5/2023: ``` Finals lol. Working on Q# Algorithm integration!!!
