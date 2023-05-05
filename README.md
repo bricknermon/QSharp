@@ -6,3 +6,6 @@ Qsharp learning to test for benefits and observe functionality and use cases. Ve
 
 
 ``` 5/3/2023: ``` Will begin shortly, read documentation, and am hammering away at finals.
+
+
+``` 5/4/2023: ``` Microsoft makes it really convenient to set up enviornment 0_0. So cool :P
